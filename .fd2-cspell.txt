@@ -35,6 +35,7 @@ getent
 getopt
 gids
 githubcli
+Goda
 isready
 jsdoc
 jsdocrc
@@ -85,5 +86,6 @@ vuejs
 vuese
 vvago
 XDEBUG
+Youssif
 zipcode
 Zulip
